@@ -1,0 +1,30 @@
+@-moz-document domain("github.com") {
+div.tooltipster-content{
+	background-color: #2e2e2e!important;	
+	border-color: black!important;
+}
+div.tooltipster-arrow-background{
+	border-bottom-color: #2e2e2e!important;	
+}
+div.tooltipster-content hr{
+	border-color: #87C9C3!important;
+}
+div.tooltipster-content a,
+div.tooltipster-content h1,
+div.tooltipster-content h2,
+div.tooltipster-content h3,
+div.tooltipster-content h4,
+div.tooltipster-content h5,
+div.tooltipster-content h6,
+div.tooltipster-content svg.octicon{
+	color: #87C9C3!important;	
+}
+div.tooltipster-content p,
+div.tooltipster-content span,
+div.tooltipster-content li{
+	color: white!important;	
+}
+div.tooltipster-content button{
+	background-color: #00a697!important;	
+}
+}
