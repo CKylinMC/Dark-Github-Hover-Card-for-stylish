@@ -1,3 +1,4 @@
+@-moz-document domain("github.com") {
 div.tooltipster-content{
 	background-color: #2e2e2e!important;	
 	border-color: black!important;
@@ -50,4 +51,5 @@ div.tooltipster-content button{
 .ghh-readme pre, .ghh-issue-body pre{
 	filter: invert(1);
 	background-color: #cecece;
+}
 }
