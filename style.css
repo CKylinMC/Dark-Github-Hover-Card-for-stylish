@@ -1,10 +1,30 @@
-@-moz-document domain("github.com") {
 div.tooltipster-content{
 	background-color: #2e2e2e!important;	
 	border-color: black!important;
 }
-div.tooltipster-arrow-background{
+.ghh-theme-github .tooltipster-bottom .tooltipster-arrow-background{
 	border-bottom-color: #2e2e2e!important;	
+}
+.ghh-theme-github .tooltipster-bottom .tooltipster-arrow-border{
+	border-bottom-color: rgba(0,0,0,0.8)!important;
+}
+.ghh-theme-github .tooltipster-top .tooltipster-arrow-background{
+	border-top-color: #2e2e2e!important;	
+}
+.ghh-theme-github .tooltipster-top .tooltipster-arrow-border{
+	border-top-color: rgba(0,0,0,0.8)!important;
+}
+.ghh-theme-github .tooltipster-right .tooltipster-arrow-background{
+	border-right-color: #2e2e2e!important;	
+}
+.ghh-theme-github .tooltipster-right .tooltipster-arrow-border{
+	border-right-color: rgba(0,0,0,0.8)!important;
+}
+.ghh-theme-github .tooltipster-left .tooltipster-arrow-background{
+	border-left-color: #2e2e2e!important;	
+}
+.ghh-theme-github .tooltipster-left .tooltipster-arrow-border{
+	border-left-color: rgba(0,0,0,0.8)!important;
 }
 div.tooltipster-content hr{
 	border-color: #87C9C3!important;
@@ -30,5 +50,4 @@ div.tooltipster-content button{
 .ghh-readme pre, .ghh-issue-body pre{
 	filter: invert(1);
 	background-color: #cecece;
-}
 }
