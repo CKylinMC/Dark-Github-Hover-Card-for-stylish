@@ -27,4 +27,8 @@ div.tooltipster-content li{
 div.tooltipster-content button{
 	background-color: #00a697!important;	
 }
+.ghh-readme pre, .ghh-issue-body pre{
+	filter: invert(1);
+	background-color: #cecece;
+}
 }
